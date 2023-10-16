@@ -9,6 +9,7 @@ body {
     margin: 0;
     padding: 0;
     overflow-x: hidden;
+    background-image: url('SuzukiCafe.jpg');
 }
 
 h1{
@@ -17,6 +18,7 @@ h1{
     margin: 0;
     padding: 0;
     text-align: center;
+    margin-bottom: 20px;
 }
 
 p{
@@ -25,13 +27,39 @@ p{
     margin: 0;
     padding: 0;
 }
-
-img{
-    max-width: 50%;
-    height: auto;
-}
-
 img{
     max-width: 100%;
     height: auto;
+}
+h2{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+}
+h3{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 200;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+aside {
+    width: 50%;
+    padding-left: auto;
+    margin-left: auto;
+    float: right;
+}
+article {
+    width: 50%;
+    padding-left: auto;
+    margin-left: auto;
+    float: left;
+}
+section {
+    width: 50%;
+    padding-left: auto;
+    margin-left: auto;
+    float: left;
 }
