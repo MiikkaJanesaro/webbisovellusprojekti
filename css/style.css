@@ -83,3 +83,20 @@ button {
 button:hover {
     background-color: #02306c;
 }
+
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    font-size: 30px;
+    text-align: center;
+}
+
+.flex-item-left{
+    padding: 10px;
+    flex: 50%;
+}
+
+.flex-item-right{
+    padding: 10px;
+    flex: 50%;
+}
