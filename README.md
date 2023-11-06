@@ -9,6 +9,8 @@ Use of forms, links, and media.
 Tables are effectively used.
 Consistent use of semantic HTML throughout, ensuring better structure and understanding of the content.
 
+5p
+
 CSS
 
 Basic CSS styling (colors, fonts).
@@ -17,7 +19,11 @@ Implementation of responsive design elements.
 Use of layouts for advanced user interfaces (flexbox, grid)
 Styling demonstrates a strong grasp of layout principles, aesthetics, and user experience.
 
+ 5p
+
 JavaScript
 
 Simple interactions (like alerts on button click).
 Use of arrays, objects, and functions.
+
+5p
