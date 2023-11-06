@@ -26,4 +26,4 @@ JavaScript
 Simple interactions (like alerts on button click).
 Use of arrays, objects, and functions.
 
-5p
+2p
