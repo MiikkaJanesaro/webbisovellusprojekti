@@ -16,7 +16,7 @@ h1{
     font-weight: 400;
     margin: 0;
     padding: 0;
-    text-align: center;
+    text-align: auto;
     margin-bottom: 20px;
 }
 
@@ -107,3 +107,21 @@ button:hover {
       flex-direction: column;
     }
   }
+
+.header {
+    background-color: #000000;
+    color: #ffffff;
+    padding: 20px;
+  
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    grid-template-rows: auto auto auto auto auto;
+    
+    justify-items: center;
+    align-items: auto;
+}
+.box{ 
+    width: 150%; 
+    height: auto; 
+    border: 2px rgb(0, 0, 0) solid; 
+  } 
