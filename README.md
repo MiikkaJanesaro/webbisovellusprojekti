@@ -27,3 +27,9 @@ Simple interactions (like alerts on button click).
 Use of arrays, objects, and functions.
 
 2p
+
+Asynchronous Operations
+
+Use of timers.
+
+1p
