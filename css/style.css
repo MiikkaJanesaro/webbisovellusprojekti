@@ -123,6 +123,7 @@ button:hover {
 .box{ 
     width: 100%; 
     height: auto; 
+    text-align: left;
     border: 2px rgb(0, 0, 0) solid; 
   } 
 
